@@ -2,9 +2,9 @@
 # Overview
 This project involves analyzing  Ride data for uber using SQL. The goal is to analyze and gain insights from this data using SQL queries and techniques.The analysis covers a range of  questions including unique pickup locations, Total number of rides and different payment pattern method.
 # Questions Addressed
-1. What are & how many unique pickup locations are there in the dataset?
+1. Calculate unique pickup locations are there in the dataset.
 
-2. What is the total number of rides in the dataset?
+2. Calculate total number of rides in the dataset.
 
 3. Calculate the average ride duration.
 
